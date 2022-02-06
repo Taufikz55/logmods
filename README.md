@@ -1,4 +1,4 @@
-# logs4free
+# logmods
 Display logs from web server log files (apache, nginx) in your browser in real time mode.
 It consists of two independent parts. One of them collect, parse and store web server logs in mysql database table.
 Second one is a web application to display that logs in real time mode using ajax.
